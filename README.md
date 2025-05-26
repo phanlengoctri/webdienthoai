@@ -27,6 +27,12 @@ Với nhu cầu mua sắm trực tuyến hiện nay ngày càng tăng, việc t�
   <img src="docs/Picture7.png" alt="1" width="45%" style="margin:10px;">
 </p>
 
+<div align="center">
+  
+  ___Giao diện các chức năng của quản trị viên___
+  
+</div>
+
 - https://www.tawk.to/
 - https://dashboard.render.com/
 - npm install express
