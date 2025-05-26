@@ -1,5 +1,4 @@
 <div align="center" size="30">
-  <img src="" alt="Magentic-UI Logo" height="100">
 
 # TECHZONE
 
