@@ -1,5 +1,5 @@
-<div align="center">
-# Magentic-UI
+<div align="center" size="30">
+  Magentic-UI
 </div>
 
 - https://www.tawk.to/
