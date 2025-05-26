@@ -10,9 +10,9 @@
   <img src="docs/Picture9.png" alt="1" width="45%" style="margin:10px;">
   <img src="docs/Picture13.png" alt="1" width="45%" style="margin:10px;">
 </p>
-
+<div align="center">
 ___Giao diện trang chủ của website___
-
+</div>
 Với nhu cầu mua sắm trực tuyến hiện nay ngày càng tăng, việc tạo ra website nhằm giúp khách hàng đáp ứng được nhu cầu và dễ dàng tham khảo các sản phẩm.Ngoài ra, còn giúp quản trị viên có thể quản lý được hàng hóa và đơn hàng tiện hơn.
 
 - https://www.tawk.to/
